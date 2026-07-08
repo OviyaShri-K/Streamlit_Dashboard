@@ -20,10 +20,13 @@ The Data Analysis Dashboard is a web application developed using Streamlit. It a
 - Check duplicate values
 - Display dataset information
 - Generate interactive graphs
-  - Line Chart
-  - Bar Chart
-  - Histogram
-  - Box Plot
+- Line Chart
+- Bar Chart
+- Histogram
+- Box Plot
+- Area Chart
+- Scatter plot
+- Pie chart
 
 ---
 
